@@ -15,7 +15,7 @@ In this project, I performed data cleaning, preprocessing, and exploratory data 
 #
 
 The insights from the analysis are visualized using Tableau, providing a comprehensive dashboard that highlights key metrics and trends.
-https://drive.google.com/file/d/19Qkblg3pQougWRVi-wLgU262iLAop6NR/view?usp=sharing  
+![Amazon Sales Dashboard](https://drive.google.com/file/d/19Qkblg3pQougWRVi-wLgU262iLAop6NR/view?usp=sharing)  
 #
   
 ### Dataset
